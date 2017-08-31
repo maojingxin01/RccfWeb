@@ -72,7 +72,7 @@
             <span class="am-input-group-label">直属上级</span>
             <select id="leader" style="width: 100%;font-size: large;margin-top: 7px; border: solid 1px deepskyblue;">
                 <option  value="0">张三</option>
-                <option value="1"李四</option>
+                <option value="1">李四</option>
                 <option value="2">王五</option>
             </select>
         </div>

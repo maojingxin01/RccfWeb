@@ -7,6 +7,7 @@
 --%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page import="com.rccf.constants.produce.ProductConstants" %>
+<%@page import="com.rccf.util.Strings" %>
 <%@page import="com.rccf.model.User" %>
 <%@page import="com.rccf.enmu.HeaderType" %>
 <%@ page import="com.rccf.model.Employee" %>
